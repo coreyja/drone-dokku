@@ -1,3 +1,3 @@
-FROM drone/drone:1.0.0-rc.3
+FROM drone/drone:1
 
 EXPOSE 80
